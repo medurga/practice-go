@@ -4,3 +4,6 @@ run:
 
 tidy:
 	go mod tidy
+
+compose:
+	docker compose up -d
